@@ -2,7 +2,7 @@ body{
     background-color: #ECECF6;
     margin: auto;
     padding: 0%;
-    width: 100%;
+    width: 80%;
     min-height: 100vh;
 }
 header{
@@ -39,4 +39,21 @@ li{
 a{
     text-decoration: none;
     color: white;
+}
+img{
+    margin: 0px 20px 0px 240px;
+    padding: 10px 100px 10px 0px;
+}
+#about{
+    text-align: start;
+    font-size: 35px;
+    color: #BB8386;
+    padding: 10px 0px 0px 0px;
+}
+.aboutmepara{
+    text-align: start;
+    font-size:25px;
+    color:#9E8580;
+    width: 70%;
+    padding: 20px 0px 0px 30px;
 }
