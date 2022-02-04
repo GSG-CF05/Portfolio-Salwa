@@ -52,7 +52,6 @@ img{
 }
 .aboutmepara{
     text-align: start;
-<<<<<<< HEAD
     font-size:20px;
     color:#9E8580;
     width: 50%;
@@ -74,11 +73,25 @@ img{
     color:#9E8580;
     text-align: start;
     padding: 10px;
-    ;
-=======
-    font-size:25px;
-    color:#9E8580;
-    width: 70%;
-    padding: 20px 0px 0px 30px;
->>>>>>> main
+}
+#contact{
+    text-align: start;
+    font-size: 35px;
+    color: #BB8386;
+    padding: 10px 0px 0px 0px;
+}
+legend{
+    color: #9E8580;
+    font-size: 20px;
+}
+label{
+    display: block;
+    align-self: flex-start;
+    padding:0px 0px 10px 0px;
+}
+input, textarea{
+    padding: 5px 0px 5px 0px;
+}
+button{
+    display: block;
 }
